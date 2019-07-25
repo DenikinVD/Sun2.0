@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1563980984 source:/home/viacheslav/progs/Sun2.0/main.cpp
+	<iostream>
+	<string>
+	"equations.h"
+	"rk4.h"
+	"approx.h"
+
+1563917400 /home/viacheslav/progs/Sun2.0/cycle.h
+	<vector>
+	<iostream>
+	<fstream>
+	<limits>
+	<initializer_list>
+	<iomanip>
+	<cmath>
+
+1563901543 /home/viacheslav/progs/Sun2.0/equations.h
+	"cycle.h"
+	<cmath>
+	<exception>
+
+1563182129 /home/viacheslav/progs/Sun2.0/rk4.h
+	"cycle.h"
+
+1563984335 /home/viacheslav/progs/Sun2.0/approx.h
+	<algorithm>
+	"rk4.h"
+	"equations.h"
+	<set>
+	<tuple>
+	<future>
+
